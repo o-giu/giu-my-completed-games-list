@@ -1,4 +1,4 @@
-# Minha Lista de Jogos Concluídos / My Completed Games List
+# Lista de Jogos Concluídos / Completed Games List
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/o-giu/giu-my-completed-games-list)](https://github.com/o-giu/giu-my-completed-games-list/releases)
 ![Safe](https://img.shields.io/badge/Safe-passing-green.svg)
