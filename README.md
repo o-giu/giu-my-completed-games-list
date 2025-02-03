@@ -1,5 +1,8 @@
 # Giu - My Completed Games List
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/o-giu/giu-my-completed-games-list)](https://github.com/o-giu/giu-my-completed-games-list/releases)
+![Safe](https://img.shields.io/badge/Safe-passing-green.svg)
+
 ## Descrição do Aplicativo
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Este aplicativo foi desenvolvido para registrar e gerenciar sua biblioteca de jogos concluídos de forma local e prática.  
 - <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> This application was developed to manage your library of completed games locally and efficiently.
