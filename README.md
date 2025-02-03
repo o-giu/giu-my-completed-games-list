@@ -37,5 +37,5 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> |
 |-----------|-----------|
 | Repositório no GitHub: [giu-my-completed-games-list](https://github.com/o-giu/giu-my-completed-games-list) | GitHub Repository: [giu-my-completed-games-list](https://github.com/o-giu/giu-my-completed-games-list) |
-| Lançamentos: [giu-my-completed-games-list]() | Releases: [giu-my-completed-games-list]() |
+| Lançamentos: [giu-my-completed-games-list](https://github.com/o-giu/giu-my-completed-games-list/releases) | Releases: [giu-my-completed-games-list](https://github.com/o-giu/giu-my-completed-games-list/releases) |
 | Desenvolvedor: @Giu | Developer: @Giu |
