@@ -3,7 +3,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/o-giu/giu-my-completed-games-list)](https://github.com/o-giu/giu-my-completed-games-list/releases)
 ![Safe](https://img.shields.io/badge/Safe-passing-green.svg)
 
-## Descrição do Aplicativo
+## Descrição do Aplicativo / Application Description
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Este aplicativo foi desenvolvido para registrar e gerenciar sua biblioteca de jogos concluídos de forma local e prática.  
 - <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> This application was developed to manage your library of completed games locally and efficiently.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Recursos Principais
+## Recursos Principais / Key Features
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> |
 |-----------|-----------|
 | Adicione jogos manualmente ou pesquise em um catálogo online integrado. | Add games manually or search in an integrated online catalog. |
@@ -29,14 +29,14 @@
 
 ---
 
-### Dicas Importantes
+### Dicas Importantes / Important Tips
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> |
 |-----------|-----------|
 | **Ao importar dados**, verifique se os números de identificação (IDs) são únicos para evitar conflitos durante a remoção de jogos. | **When importing data**, please ensure that identification numbers (IDs) are unique to avoid conflicts when removing games. |
 
 ---
 
-## Links Úteis
+## Links Úteis / Useful Links
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> |
 |-----------|-----------|
 | Repositório no GitHub: [giu-my-completed-games-list](https://github.com/o-giu/giu-my-completed-games-list) | GitHub Repository: [giu-my-completed-games-list](https://github.com/o-giu/giu-my-completed-games-list) |
