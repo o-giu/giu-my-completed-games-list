@@ -15,7 +15,7 @@
 ## Recursos Principais / Key Features
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> |
 |-----------|-----------|
-| Adicione jogos manualmente ou pesquise em um catálogo online integrado. | Add games manually or search in an integrated online catalog. |
+| Adicione jogos manualmente ou pesquise por jogos catalogados na internet. | Add games manually or search for cataloged games on the internet. |
 | Organize os jogos por nome, plataforma, status (concluído/não concluído) e descrição. | Organize games by name, platform, status (completed/incomplete), and description. |
 | Ordene os dados na tabela, basta clicar no nome da coluna desejada. Clique novamente para inverter a ordem. | Sort the data in the table, simply click on the name of the desired column. Click again to reverse the order. |
 | Altere o nome, plataforma, status ou descrição de qualquer jogo na lista. | Change the name, platform, status, or description of any game in the list. |
