@@ -29,7 +29,7 @@
 
 ---
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Exemplo do arquivo CSV / <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> CSV file example | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Exemplo do arquivo EXCEL <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> EXCEL file example |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Exemplo do arquivo CSV / <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> CSV file example | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Exemplo do arquivo EXCEL / <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> EXCEL file example |
 |-----------|-----------|
 | ![image](https://github.com/user-attachments/assets/401d091d-fb7b-445e-b39e-c45e396d1899) | ![image](https://github.com/user-attachments/assets/30d88432-fa06-47a3-b22b-2263de292058) | 
 
