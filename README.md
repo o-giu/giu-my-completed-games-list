@@ -1,5 +1,7 @@
 # Lista de Jogos Concluídos / Completed Games List
 
+💻 Windows
+
 ![Safe](https://img.shields.io/badge/Safe-passing-green.svg)
 
 ## Descrição do Aplicativo / Application Description
